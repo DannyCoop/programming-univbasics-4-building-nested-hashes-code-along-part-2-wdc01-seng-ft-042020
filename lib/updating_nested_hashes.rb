@@ -30,6 +30,7 @@ when idx < num do
   else
     epic_tragedy[:capulet][:heroine][:status] = "dead"
   end
+  idx += 1
 end
 
 
